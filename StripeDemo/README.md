@@ -14,12 +14,15 @@ This app is built on top of the folllowing API
 Find the back end code at [https://github.com/kmajeshkrishnan/Stripe-Demo](https://github.com/kmajeshkrishnan/Stripe-Demo)
 
 #### Payment Flow
+
+
 <p align="center">
   <img width="280" height="500" src="https://github.com/MurariTiwari/hpdf-groupTask/blob/master/StripeDemo/src/1.jpg">
   <img width="280" height="500" src="https://github.com/MurariTiwari/hpdf-groupTask/blob/master/StripeDemo/src/2.jpg">
   <img width="280" height="500" src="https://github.com/MurariTiwari/hpdf-groupTask/blob/master/StripeDemo/src/3.jpg">
 </p>
- - For testing give card number 4242424242424242
+
+#### For testing give card number 4242424242424242
 ### Requirements
 
 - [Node](https://nodejs.org) 4.x or better
