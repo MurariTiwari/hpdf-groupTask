@@ -19,7 +19,7 @@ Find the back end code at [https://github.com/kmajeshkrishnan/Stripe-Demo](https
   <img width="280" height="500" src="https://github.com/MurariTiwari/hpdf-groupTask/blob/master/StripeDemo/src/2.jpg">
   <img width="280" height="500" src="https://github.com/MurariTiwari/hpdf-groupTask/blob/master/StripeDemo/src/3.jpg">
 </p>
-
+ - For testing give card number 4242424242424242
 ### Requirements
 
 - [Node](https://nodejs.org) 4.x or better
@@ -58,4 +58,8 @@ For Android,
 react-native run-android
 ```
 For ios,
+```sh
+react-native run-ios
+```
+#### or
 Open `ios/StripeDemo.xcodeproj` in Xcode, build and run the project (⌘+R).
