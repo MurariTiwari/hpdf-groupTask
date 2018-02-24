@@ -40,7 +40,8 @@ export default class MainView extends Component<{}> {
 
 
     //return fetch('https://stripe-demo-ak002.herokuapp.com/charge',{
-    return fetch('https://api.club87.hasura-app.io/charge', { 
+    //return fetch('https://api.club87.hasura-app.io/charge', { 
+    return fetch('https://app.backpedal70.hasura-app.io/charge',{
     method: 'POST',
     body: formData
     }) 
